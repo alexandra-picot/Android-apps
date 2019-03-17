@@ -1,2 +1,2 @@
 # Android-apps
-Sample Android application coming from personal research or class projects
+Sample Android applications coming from personal researchs or class projects
