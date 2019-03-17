@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MemoryMagicians</string>
+    <string name="try_text">Tries:</string>
+    <string name="match_text">Matches:</string>
+    <string name="match_color_text">Matched color:</string>
+    <string name="unmatch_color_text">Unmatched color:</string>
+    <string name="reset_board_text">Reset Board</string>
+    <string name="hidden_cell_1">Hidden Cell 1</string>
+    <string name="hidden_cell_2">Hidden Cell 2</string>
+    <string name="hidden_cell_3">Hidden Cell 3</string>
+    <string name="hidden_cell_4">Hidden Cell 4</string>
+    <string name="hidden_cell_5">Hidden Cell 5</string>
+    <string name="hidden_cell_6">Hidden Cell 6</string>
+    <string name="hidden_cell_7">Hidden Cell 7</string>
+    <string name="hidden_cell_8">Hidden Cell 8</string>
+    <string name="hidden_cell_9">Hidden Cell 9</string>
+    <string name="hidden_cell_10">Hidden Cell 10</string>
+    <string name="hidden_cell_11">Hidden Cell 11</string>
+    <string name="hidden_cell_12">Hidden Cell 12</string>
+</resources>
