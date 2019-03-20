@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Reservation Roster</string>
+    <string name="simulation_lbl">Simulation:</string>
+    <string name="start_text">Start</string>
+    <string name="stop_text">Stop</string>
+    <string name="party_name_lbl">Party name:</string>
+    <string name="party_name_hint">Party name</string>
+    <string name="nb_party_lbl">Number in Party:</string>
+    <string name="nb_party_hint">Number in Party</string>
+    <string name="reserve_text">Reserve</string>
+    <string name="clear_text">Clear</string>
+    <string name="name_text">Name</string>
+    <string name="number_text">Number</string>
+    <string name="wait_time_text">Wait Time (mn)</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorGreenButton">#8000CC00</color>
+    <color name="colorRedButton">#80CC0000</color>
+    <color name="colorReservationlistView">#0F00BEFF</color>
+</resources>
